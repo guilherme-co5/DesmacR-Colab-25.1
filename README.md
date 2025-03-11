@@ -10,9 +10,9 @@ Este projeto tem como objetivo analisar o desmatamento na Amazônia Legal utiliz
 
 🛠️ Tecnologias Utilizadas
 
-    Linguagem: R (ggplot2, plyr)
-    Dados: INPE (PRODES, DETER), IBGE
-    Visualização: Mapas interativos, séries temporais, dashboards
+    Linguagem: R (ggplot2, plyr).
+    Dados: INPE (PRODES, DETER), IBGE.
+    Visualização: Mapas interativos, séries temporais.
 
 📜 Licença
 
