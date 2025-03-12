@@ -17,7 +17,7 @@
 
 📊 Melhorias em Andamento
 
-    Implemtanção de mais DataFrames {Rebanho de Gados + Produção de Milho}, bem como a exploração da relação com o Desmatamento.
+    Implementanção de mais DataFrames {Rebanho de Gados + Produção de Milho}, bem como a exploração da relação com o Desmatamento.
     Implementação de médias móveis para suavização de tendências.
     Adição de mapas interativos para visualizar distribuição geográfica do desmatamento.
     Exploração de modelos preditivos (ARIMA) para estimar futuras taxas de desmatamento.
